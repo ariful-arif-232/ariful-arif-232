@@ -91,8 +91,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariful-arif-232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-arif-232&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ![Streak](https://streak-stats.demolab.com/?user=ariful-arif-232&theme=tokyonight&hide_border=true)
 
