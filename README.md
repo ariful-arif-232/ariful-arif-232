@@ -59,7 +59,7 @@
 |---|---|
 | 🌾 **[BanglaPlantNet](#)** | Attention-based CNN research for real-field Bangladeshi crop disease detection — DIU Final Year Design Project |
 | 💼 **[Ariful-Portfolio](https://github.com/ariful-arif-232/Ariful-Portfolio)** | Personal portfolio site with a real admin CMS — React, Vite, TypeScript, Tailwind, Supabase |
-| 🍽️ **[mess-manager](https://github.com/ariful-arif-232/mess-manager)** | Installable mess-management PWA with Admin/Member roles, meals, bazar costs, deposits & settlements — Supabase Postgres + Auth, RLS-secured |
+| 🍽️ **[mess-manager](https://github.com/ariful-arif-232/mess-manager)** ([Live](https://mess-manager.app)) | Installable mess-management PWA with Admin/Member roles, meals, bazar costs, deposits & settlements — Supabase Postgres + Auth, RLS-secured |
 | 👕 **TTT Outfit E-commerce** | Custom e-commerce platform for a Bangladeshi streetwear brand — Node.js, Express, EJS, MongoDB |
 
 ---
