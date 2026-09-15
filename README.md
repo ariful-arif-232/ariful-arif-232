@@ -18,6 +18,7 @@
 - 🎓 BSc in Computer Science & Engineering — Daffodil International University (DIU)
 - 🔬 Working on my Final Year Design Project — **BanglaPlantNet**, an attention-based CNN for real-field Bangladeshi crop disease detection
 - 👕 Founder & Developer of **[TTT Outfit](https://tttoutfit.bd)** — a Bangladeshi streetwear brand; built its custom e-commerce platform end-to-end
+- 🍽️ Creator of **[Mess Manager](https://mess-manager.app)** — an installable mess-management PWA for meals, bazar costs, deposits & settlements
 - 🌐 Building and maintaining my own portfolio site with a real admin CMS
 - 💬 I speak Bengali & English
 - ⚡ Interested in AI/ML, explainable AI, and full-stack web development
