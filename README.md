@@ -92,7 +92,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariful-arif-232&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-arif-232&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariful-arif-232&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=ariful-arif-232&theme=tokyonight&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ariful-arif-232&theme=tokyonight&no-frame=true&row=1&column=6)
 
