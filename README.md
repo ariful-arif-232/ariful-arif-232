@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Builder%20of%20TTT%20Outfit&descAlignY=58&descSize=18" width="100%"/>
+# Ariful 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+Web+projects...;CSE+Student+at+DIU;Founder+%26+Developer+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
+### CSE Student @ Daffodil International University · AI & Web Developer · Founder of TTT Outfit
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://ariful-arif.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ariful-232-arif)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:islam2305101580@diu.edu.bd)
-![Profile Views](https://komarev.com/ghpvc/?username=ariful-arif-232&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -78,42 +77,17 @@
 
 | Project | Description |
 |---|---|
-| 🌾 **[BanglaPlantNet](#)** | Attention-based CNN research for real-field Bangladeshi crop disease detection — DIU Final Year Design Project |
+| 🌾 **BanglaPlantNet** | Attention-based CNN research for real-field Bangladeshi crop disease detection — DIU Final Year Design Project |
 | 💼 **[Ariful-Portfolio](https://github.com/ariful-arif-232/Ariful-Portfolio)** | Personal portfolio site with a real admin CMS — React, Vite, TypeScript, Tailwind, Supabase |
-| 🍽️ **[mess-manager](https://github.com/ariful-arif-232/mess-manager)** ([Live](https://mess-manager.app)) | Installable mess-management PWA with Admin/Member roles, meals, bazar costs, deposits & settlements — Supabase Postgres + Auth, RLS-secured |
-| 👕 **[TTT Outfit](https://tttoutfit.bd)** ([Live](https://tttoutfit.bd)) | Custom e-commerce platform for my own Bangladeshi streetwear brand, built end-to-end — Node.js, Express, EJS, MongoDB |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariful-arif-232&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-arif-232&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=ariful-arif-232&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ariful-arif-232&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ariful-arif-232&theme=tokyo-night&hide_border=true)
-
-</div>
+| 🍽️ **[Mess Manager](https://github.com/ariful-arif-232/mess-manager)** ([Live](https://mess-manager.app)) | Installable mess-management PWA with Admin/Member roles, meals, bazar costs, deposits & settlements — Supabase Postgres + Auth, RLS-secured |
+| 👕 **[TTT Outfit](https://github.com/ariful-arif-232/ttt-outfit)** ([Live](https://tttoutfit.bd)) | Custom e-commerce platform for my own Bangladeshi streetwear brand, built end-to-end — Node.js, Express, EJS, MongoDB |
+| 💳 **[student-payment-management](https://github.com/ariful-arif-232/student-payment-management)** | Console-based C program for student accounts, dues, payments & clearance — uses Doubly Linked List, Queue and Array |
+| 🏬 **[inventory-sale-retail](https://github.com/ariful-arif-232/inventory-sale-retail)** | Inventory and retail sales management web app |
 
 ---
 
 <div align="center">
 
 💡 *"Building useful things, one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=100&section=footer" width="100%"/>
 
 </div>
