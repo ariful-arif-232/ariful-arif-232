@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20Islam%20Arif&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20and%20Web%20Developer%20%7C%20Founder%20of%20TTT%20Outfit&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=230&section=header&text=Ariful%20Islam%20Arif&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20and%20Web%20Developer%20%7C%20Founder%20of%20TTT%20Outfit&descAlignY=58&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+and+Web+projects+that+actually+ship;Final-year+CSE+student+at+DIU;Founder+and+developer+of+TTT+Outfit;Currently+researching+crop+disease+detection&font=Fira+Code&center=true&width=560&height=45&color=F7A072&vCenter=true&size=20" width="100%"/>
 
