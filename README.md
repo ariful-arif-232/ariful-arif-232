@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+Web+projects...;CSE+Student+at+DIU;Founder+%26+Developer+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://ariful-arif.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ariful-232-arif)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:islam2305101580@diu.edu.bd)
 ![Profile Views](https://komarev.com/ghpvc/?username=ariful-arif-232&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
