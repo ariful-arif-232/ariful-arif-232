@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Founder%20of%20TTT%20Outfit&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Builder%20of%20TTT%20Outfit&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+Web+projects...;CSE+Student+at+DIU;Founder+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+Web+projects...;CSE+Student+at+DIU;Founder+%26+Developer+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://ariful-arif.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:islam2305101580@diu.edu.bd)
 ![Profile Views](https://komarev.com/ghpvc/?username=ariful-arif-232&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
 </div>
@@ -17,7 +17,7 @@
 
 - 🎓 BSc in Computer Science & Engineering — Daffodil International University (DIU)
 - 🔬 Working on my Final Year Design Project — **BanglaPlantNet**, an attention-based CNN for real-field Bangladeshi crop disease detection
-- 👕 Founder of **TTT Outfit** — a Bangladeshi streetwear brand, building its custom e-commerce platform
+- 👕 Founder & Developer of **[TTT Outfit](https://tttoutfit.bd)** — a Bangladeshi streetwear brand; built its custom e-commerce platform end-to-end
 - 🌐 Building and maintaining my own portfolio site with a real admin CMS
 - 💬 I speak Bengali & English
 - ⚡ Interested in AI/ML, explainable AI, and full-stack web development
@@ -60,7 +60,7 @@
 | 🌾 **[BanglaPlantNet](#)** | Attention-based CNN research for real-field Bangladeshi crop disease detection — DIU Final Year Design Project |
 | 💼 **[Ariful-Portfolio](https://github.com/ariful-arif-232/Ariful-Portfolio)** | Personal portfolio site with a real admin CMS — React, Vite, TypeScript, Tailwind, Supabase |
 | 🍽️ **[mess-manager](https://github.com/ariful-arif-232/mess-manager)** ([Live](https://mess-manager.app)) | Installable mess-management PWA with Admin/Member roles, meals, bazar costs, deposits & settlements — Supabase Postgres + Auth, RLS-secured |
-| 👕 **TTT Outfit E-commerce** | Custom e-commerce platform for a Bangladeshi streetwear brand — Node.js, Express, EJS, MongoDB |
+| 👕 **[TTT Outfit](https://tttoutfit.bd)** ([Live](https://tttoutfit.bd)) | Custom e-commerce platform for my own Bangladeshi streetwear brand, built end-to-end — Node.js, Express, EJS, MongoDB |
 
 ---
 
