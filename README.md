@@ -96,7 +96,7 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=ariful-arif-232&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ariful-arif-232&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](./profile/trophy.svg)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ariful-arif-232&theme=tokyo-night&hide_border=true)
+![Activity Graph](./profile/activity-graph.svg)
 
 </div>
 

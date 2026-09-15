@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: username=ariful-arif-232&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -27,7 +27,22 @@ jobs:
           card: top-langs
           options: username=ariful-arif-232&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.1.0
+        with:
+          options: "username=ariful-arif-232&theme=tokyonight&no-frame=true&row=1&column=6"
+          path: profile/trophy.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ariful-arif-232
+          options: theme=tokyo-night&hide_border=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.PAT_1 }}
 
       - name: Commit cards
         run: |
