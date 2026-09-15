@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Builder%20of%20TTT%20Outfit&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=200&section=header&text=Ariful%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%20and%20Web%20Developer%20%7C%20Builder%20of%20TTT%20Outfit&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+Web+projects...;CSE+Student+at+DIU;Founder+%26+Developer+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+and+Web+projects...;CSE+Student+at+DIU;Founder+and+Developer+of+TTT+Outfit;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=F7A072&vCenter=true&size=22"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://ariful-arif.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ariful-232-arif)
